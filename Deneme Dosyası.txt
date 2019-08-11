@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Doðuhan ELMA
+=======
+Doðuhan ELMA
+
+ELMA
+>>>>>>> ec0ec93d3f4da28c78fb8d2e7ed8462408499d72
